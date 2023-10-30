@@ -8,7 +8,7 @@ Nesse projeto foi desenvolvido um site utilizando React com o objetivo de consum
 
 * [Repositório da API](https://github.com/Thzzao/Livraria_API_Resilia)
 * [Deploy da API](https://backend-api-p7ni.onrender.com/)
-* [Deploy do Front](https://react-module5.vercel.app/)
+* [Deploy do FrontEnd](https://react-module5.vercel.app/)
 
 
 ##  Requisitos 🗝️ 
