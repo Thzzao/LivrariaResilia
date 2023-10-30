@@ -6,7 +6,7 @@ Bem-vindos ao Espaço das Letras, o seu novo destino literário online. Nós som
 
 Nesse projeto foi desenvolvido um site utilizando React com o objetivo de consumir os dados da API. 
 
-* [Repositório da API](https://github.com/JulieneCarneiro/BackEnd_API)
+* [Repositório da API](https://github.com/Thzzao/Livraria_API_Resilia)
 * [Deploy da API](https://backend-api-p7ni.onrender.com/)
 * [Deploy do Front](https://react-module5.vercel.app/)
 
