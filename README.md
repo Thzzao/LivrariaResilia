@@ -31,7 +31,7 @@ Nesse projeto foi desenvolvido um site utilizando React com o objetivo de consum
 ```
 
 ``` bash
-axios: "^1.5.1"
+   axios: "^1.5.1"
 ```
 
 ## Instalação 🔌
