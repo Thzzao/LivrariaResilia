@@ -1,4 +1,4 @@
-# Espaço das Letras - React + ViteJs + Javascript 📚
+# Espaço das Letras - React + Vite + JavasScript 📚
 
 Bem-vindos ao Espaço das Letras, o seu novo destino literário online. Nós somos uma pequena livraria/sebo apaixonada por livros e pela cidade de Curitiba, e estamos aqui para compartilhar histórias e conhecimento de forma acessível e conveniente. 
 
@@ -11,7 +11,7 @@ Nesse projeto foi desenvolvido um site utilizando React com o objetivo de consum
 * [Deploy do Front](https://react-module5.vercel.app/)
 
 
-##  Requisitos 
+##  Requisitos 🗝️ 
 
 * VS Code
 * React (18.2.0)
@@ -70,7 +70,7 @@ No terminal do VS Code:
 ```
 
 
-## Bibliotecas e ferramentas utilizadas
+## Bibliotecas e ferramentas utilizadas 🔍
 
 * [React](https://legacy.reactjs.org/docs/getting-started.html) 
 
@@ -81,12 +81,13 @@ No terminal do VS Code:
 * [ViteJs](https://vitejs.dev/guide/)
 
 * [Axios](https://axios-http.com/docs/intro)
+
 ## Autores 🖊️
 
 - **Juliene Carneiro** - [GitHub](https://github.com/JulieneCarneiro) - [LinkedIn](https://www.linkedin.com/in/juliene-s-carneiro/)
 
 - **Laís Muller** -  [GitHub](https://github.com/laismullerrr) - [LinkedIn](https://www.linkedin.com/in/laismulleraliski/)
 
-- **Thiago de Souza** -  [GitHub](https://github.com/Thzzao) - [LinkedIn](https://www.linkedin.com/in/thiagojdss/) 
+- **Thiago Souza** -  [GitHub](https://github.com/Thzzao) - [LinkedIn](https://www.linkedin.com/in/thiagojdss/) 
 
 - **Leticia Oliveira** -  [GitHub](https://github.com/Letiti4) - [LinkedIn](https://www.linkedin.com/in/leticia-oliveira-1955301b8/) 
